@@ -1,0 +1,53 @@
+  
+             DAY 2 Coding Questions 🙌
+
+1.Identifying Palindromes
+Difficulty: Easy
+Topics: Basic Programming, String Manipulation
+Description: Write a program to check if a string or number is a palindrome.
+Example:
+Input: string = "radar"
+Output: Palindrome
+Explanation: "radar" reads the same backward as forward.
+
+2.Crafting Star Patterns
+Difficulty: Easy
+Topics: Basic Programming, Patterns
+Description: Write a program to create different star patterns (e.g., pyramid, diamond).
+Example:
+Input: patternType = "pyramid", height = 5
+Output:
+
+    *
+   ***
+  *****
+ *******
+*********
+Explanation: A pyramid pattern with a height of 5 is generated.
+
+3.Finding the Factorial of a Number
+Difficulty: Easy
+Topics: Basic Programming, Mathematical Computations
+Description: Write a program to compute the factorial of a given number.
+Example:
+Input: number = 5
+Output: 120
+Explanation: 5! (factorial) is 5 × 4 × 3 × 2 × 1 = 120.
+
+4.Summing Digits of a Number
+Difficulty: Easy
+Topics: Basic Programming, Mathematical Computations
+Description: Write a program to calculate the sum of digits of a number.
+Example:
+Input: number = 1234
+Output: 10
+Explanation: The sum of the digits 1 + 2 + 3 + 4 = 10.
+
+5.Finding the Greatest Common Divisor (GCD)
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to find the GCD of two numbers.
+Example:
+Input: a = 48, b = 18
+Output: 6
+Explanation: The GCD of 48 and 18 is 6.
