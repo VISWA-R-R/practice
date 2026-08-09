@@ -14,7 +14,7 @@ public class Palindromicsubstring {
         count=0;
         for(int i=0;i<str.length();i++){
             palindrom(str, i, i);
-            palindrom(str, i, i+1);
+            palindrom(str, i, i + 1);
         }
         
         System.out.println(count);
