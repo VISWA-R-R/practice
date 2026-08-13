@@ -1,0 +1,52 @@
+               DAY 4  Coding Questions 🙌 
+
+1.Finding the Sum of Elements in an Array
+Difficulty: Easy
+Topics: Basic Programming, Arrays
+Description: Write a program to find the sum of elements in an array.
+Example:
+Input: array = [1, 2, 3, 4, 5]
+Output: 15
+Explanation: The sum of the elements in the array is 15.
+
+2.Checking for Armstrong Numbers in a Range
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to find all Armstrong numbers within a given range.
+Example:
+Input: range = [1, 500]
+Output: [1, 153, 370, 371, 407]
+Explanation: Armstrong numbers between 1 and 500 are 1, 153, 370, 371, and 407.
+
+3.Generating Multiplication Tables
+Difficulty: Easy
+Topics: Basic Programming, Mathematical Computations
+Description: Write a program to generate multiplication tables for a given number.
+Example:
+Input: number = 4
+Output:
+
+4 x 1 = 4  
+4 x 2 = 8  
+4 x 3 = 12  
+4 x 4 = 16  
+4 x 5 = 20  
+Explanation: The multiplication table for 4 up to 5 is generated.
+
+4.Finding Prime Numbers in a Range
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to find all prime numbers within a given range.
+Example:
+Input: range = [10, 30]
+Output: [11, 13, 17, 19, 23, 29]
+Explanation: Prime numbers between 10 and 30 are 11, 13, 17, 19, 23, and 29.
+
+5.Checking for Perfect Numbers
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to determine if a number is a perfect number.
+Example:
+Input: number = 28
+Output: Perfect Number
+Explanation: 28 is a perfect number because its divisors (1, 2, 4, 7, 14) sum up to 28.
