@@ -1,0 +1,46 @@
+               Day 3 Coding Questions 🙌
+
+1.Finding the Least Common Multiple (LCM)
+Difficulty: Easy
+Topics: Basic Programming, Number Theory
+Description: Write a program to find the LCM of two numbers.
+Example:
+Input: a = 12, b = 15
+Output: 60
+Explanation: The LCM of 12 and 15 is 60.
+
+2.Counting Vowels and Consonants in a String
+Difficulty: Easy
+Topics: Basic Programming, String Manipulation
+Description: Write a program to count vowels and consonants in a given string.
+Example:
+Input: string = "hello world"
+Output: Vowels: 3, Consonants: 7
+Explanation: "hello world" contains 3 vowels (e, o, o) and 7 consonants (h, l, l, w, r, l, d).
+
+3.Reversing a String
+Difficulty: Easy
+Topics: Basic Programming, String Manipulation
+Description: Write a program to reverse a given string.
+Example:
+Input: string = "programming"
+Output: "gnimmargorp"
+Explanation: The reversed string of "programming" is "gnimmargorp".
+
+4.Finding the Largest and Smallest Numbers in an Array
+Difficulty: Easy
+Topics: Basic Programming, Arrays
+Description: Write a program to find the largest and smallest numbers in an array.
+Example:
+Input: array = [4, 7, 1, 8, 5]
+Output: Largest: 8, Smallest: 1
+Explanation: The largest number in the array is 8 and the smallest is 1.
+
+5.Sorting an Array
+Difficulty: Easy
+Topics: Basic Programming, Sorting Algorithms
+Description: Write a program to sort an array of numbers in ascending order.
+Example:
+Input: array = [3, 1, 4, 1, 5, 9]
+Output: [1, 1, 3, 4, 5, 9]
+Explanation: The array sorted in ascending order is [1, 1, 3, 4, 5, 9].
