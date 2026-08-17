@@ -5,7 +5,7 @@ public class Findthedifferentbetweensumofevenandodd {
         int arr[]={1,2,3,4,5,6};
         int sumeven=0;
         int sumodd=0;
-        int different=0;
+        int different;
         for(int i=0;i<arr.length;i++){
             if(arr[i]%2==0){
                 sumeven=sumeven+arr[i];
