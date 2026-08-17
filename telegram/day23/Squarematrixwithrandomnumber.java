@@ -1,4 +1,4 @@
-package telegram.day22;
+package telegram.day23;
 
 public class Squarematrixwithrandomnumber {
     public static void main(String[] args) {
