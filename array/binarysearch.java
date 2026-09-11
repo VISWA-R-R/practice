@@ -8,7 +8,7 @@ public class binarysearch {
             int mid=(i+j)/2;
             if(arr[mid]==find) return mid;
             else if(arr[mid]<find) i=mid+1;
-            else i=mid-1;
+            else j=mid-1;
         }
         return -1;
     }
