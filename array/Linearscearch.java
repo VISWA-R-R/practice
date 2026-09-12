@@ -12,10 +12,10 @@ public class Linearscearch {
     }
     public static void main(String[] args) {
         int arr[]={1,2,3,4,5,6,7,8};
-        int search=2;
+        int search=1;
 
         int index=linear1(arr, search);
-        if (index>0) {
+        if (index>=0) {
             System.out.println("it was present in the array "+index);
         }
         else{
