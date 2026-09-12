@@ -1,7 +1,5 @@
 package praticejava.day34;
 
-import revision.string.removeduplicate;
-
 public class RemoveduplicateinString {
     public static void main(String[] args) {
         String str = "java";
